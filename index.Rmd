@@ -1,0 +1,12 @@
+---
+title: "Home"
+---
+
+
+<img src="foto_website_klein.png" class="center">
+
+
+Ik ben Patrick. Ik ondersteun organisaties, bedrijven en besturen als consultant, onderzoeker en interim – manager. Mijn meerwaarde ligt in het feit dat ik een ruime ervaring heb in tal van werkdomeinen. Ik heb een grondige financiële kennis: budgetten, rapporteringen, financiële analyses, cash flow prognoses, kostprijsberekening… noem maar op. Maar wat uniek is, ligt in het feit dat ik ook de operationele en organisatorische processen beheers, na lange ervaring als leidinggevende in tal van bedrijven en overheden. Die brug tussen het financiële en het operationele kunnen weinig consultants maken. Verder ben ik Data Science specialist, met een grondige kennis van R programming (dplyr, ggplot2,…) en ben ik goed thuis in statistische analyses en forecasting. 
+Zie mijn recente projecten  en raadpleeg mijn cv.
+
+Doe beroep op mijn kennis en ervaring in jouw omgeving. Ik werk eenvoudig, sober en efficiënt. Ik verkies te werken in zelfstandig dienstverband of als zzp’r zoals ze het in Nederland noemen. 

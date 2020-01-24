@@ -1,0 +1,17 @@
+---
+title: "Recente projecten"
+---
+
+# Afdelingshoofd omgeving gemeente Bertem
+
+Sinds september 2019 ben ik interim - afdelingshoofd omgeving in de gemeente Bertem. Deze opdracht doe ik in onderaanneming van Mondea. Ik geef leiding aan de cel omgeving of grondgebiedzaken. Dit omvat de dienst ruimtelijke ordening, milieu, vergunningen en de technische uitvoeringsdienst. Nieuwe overlegstructuren werden geïmplementeerd en het vertrouwen in de afdeling is terug hersteld. Naast leiding geven verzorg ik ook inhoudelijke projecten. Zo heb ik de R – omgeving gebruikt om een grondige analyse te maken van uitgevoerde taken binnen de afdelingen van de uitvoeringsdienst. Verder heb ik met R (dplyr, ggplot2, Highcharter) de kosten van het wagenpark, materiaal en uitrusting doorgelicht. 
+
+Deze opdracht loopt tot mei 2020, 3 dagen per week.
+
+# Ontwikkeling van een simulatiemodel voor een referentie – recyclagepark
+
+Dit is een opdracht van de Vlaamse Vereniging van Steden en Gemeenten (VVSG). Bedoeling is een simulatiemodel te ontwikkelen voor een referentie – recyclagepark in de R – omgeving. Alvorens het simulatiemodel te ontwikkelen, moet eerst een definitie worden ontwikkeld van een referentie – recyclagepark. Dat gebeurt aan de hand van een grondig data- analyse  en veldonderzoeken. De databank van de inzameling van huishoudelijke afvalstromen is afkomstig van OVAM en verwerk ik met R (dplyr, ggplot2, Highcharter). 
+De resultaten van het onderzoek zullen gebruikt worden in het kader van de milieu beleidsovereenkomsten.
+
+Deze opdracht is gestart in januari 2020.
+

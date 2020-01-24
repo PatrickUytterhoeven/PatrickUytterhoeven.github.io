@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: "Patrick Uytterhoeven"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Recente projecten"
+      href: about.html
+    - text: "CV"
+      href: cv.html
+    - text: "Contact"
+      href: contact.html
